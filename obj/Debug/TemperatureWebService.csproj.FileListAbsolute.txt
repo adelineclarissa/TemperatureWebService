@@ -1,0 +1,7 @@
+C:\Users\adeli\Desktop\TemperatureWebService\bin\TemperatureWebService.dll.config
+C:\Users\adeli\Desktop\TemperatureWebService\bin\TemperatureWebService.dll
+C:\Users\adeli\Desktop\TemperatureWebService\bin\TemperatureWebService.pdb
+C:\Users\adeli\Desktop\TemperatureWebService\obj\Debug\TemperatureWebService.csproj.AssemblyReference.cache
+C:\Users\adeli\Desktop\TemperatureWebService\obj\Debug\TemperatureWebService.csproj.CoreCompileInputs.cache
+C:\Users\adeli\Desktop\TemperatureWebService\obj\Debug\TemperatureWebService.dll
+C:\Users\adeli\Desktop\TemperatureWebService\obj\Debug\TemperatureWebService.pdb
